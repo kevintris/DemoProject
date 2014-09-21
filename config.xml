@@ -4,32 +4,24 @@
 	id        = "com.omtamil-app-workshop"
 	versionCode="1"
 	version   = "1.0">
-<name>TOP BUSINESS</name>
+<name>OMTAMIL APP WORKSHOP</name>
 <description>
-TOP BUSINESS</description>
+A Demo App for Mobile Development Workshop</description>
 <author href="omtamil.com" 
-email="kevintris@gmail.com">
-Kevin Ainsley
+email="muhelen@omtamil.com">
+MUHELEN MURUGAN
 </author>
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
-	<preference name="phonegap-version" value="3.5.0" />
-	<preference name="orientation" value="default" />
+	<preference name="phonegap-version" value="3.3.0" />
+	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="false" />
 	<preference name="webviewbounce" value="false" />
 	<preference name="DisallowOverscroll" value="true"/>
 	<preference name="disallowOverscroll" value="true" />
 	<preference name="exit-on-suspend" value="false" />
-	<preference name="prerendered-icon" value="true" />
-	
-	
-	<icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
-	<icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
-	<icon src="res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:density="hdpi" />
-	<icon src="res/icon/android/icon-96-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
-	
-	
+	<preference name="prerendered-icon" value="false" />
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
 	<icon src="res/icon/ios/icon-57-2x.png" gap:platform="ios" width="114" height="114" />
