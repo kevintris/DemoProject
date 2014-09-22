@@ -21,7 +21,7 @@ MUHELEN MURUGAN
 	<preference name="DisallowOverscroll" value="true"/>
 	<preference name="disallowOverscroll" value="true" />
 	<preference name="exit-on-suspend" value="false" />
-	<preference name="prerendered-icon" value="false" />
+	<preference name="prerendered-icon" value="true" />
 	
 	<icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
