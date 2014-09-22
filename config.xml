@@ -4,7 +4,7 @@
 	id        = "com.omtamil-app-workshop"
 	versionCode="1"
 	version   = "1.0">
-<name>TOP COUNTRIES</name>
+<name> NEW TOP COUNTRIES</name>
 <description>
 A Demo App for Mobile Development Workshop</description>
 <author href="omtamil.com" 
@@ -27,7 +27,7 @@ MUHELEN MURUGAN
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
     <icon src="res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
-
+	
  	 
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
